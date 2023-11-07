@@ -6,6 +6,7 @@
     <groupId>com.whl.hessian</groupId>
     <artifactId>hessian-demo</artifactId>
     <version>${revision}</version>
+    <packaging>pom</packaging>
 
     <properties>
         <!-- com/caucho/hessian -->
@@ -82,29 +83,6 @@
         </dependencies>
     </dependencyManagement>
 
-    <dependencies>
-        <dependency>
-            <groupId>com.caucho</groupId>
-            <artifactId>hessian</artifactId>
-        </dependency>
-        <dependency>
-            <groupId>javax.servlet</groupId>
-            <artifactId>javax.servlet-api</artifactId>
-        </dependency>
-        <dependency>
-            <groupId>org.apache.tomcat.embed</groupId>
-            <artifactId>tomcat-embed-core</artifactId>
-        </dependency>
-        <dependency>
-            <groupId>org.apache.tomcat.embed</groupId>
-            <artifactId>tomcat-embed-jasper</artifactId>
-        </dependency>
-        <dependency>
-            <groupId>org.junit.jupiter</groupId>
-            <artifactId>junit-jupiter</artifactId>
-        </dependency>
-    </dependencies>
-
     <build>
         <pluginManagement>
             <plugins>
@@ -165,4 +143,9 @@
         </plugins>
     </build>
 
+    <modules>
+        <module>hessian-demo-client</module>
+        <module>hessian-demo-common</module>
+        <module>hessian-demo-server</module>
+    </modules>
 </project>
