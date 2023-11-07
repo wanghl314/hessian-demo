@@ -9,7 +9,7 @@ import org.junit.jupiter.api.Test;
 import com.caucho.hessian.client.HessianProxyFactory;
 import com.whl.hessian.api.BasicAPI;
 
-public class TestClient {
+public class TestBasicAPI {
 
     @Test
     public void testHessian() throws MalformedURLException {
