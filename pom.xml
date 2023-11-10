@@ -9,8 +9,6 @@
     <packaging>pom</packaging>
 
     <properties>
-        <!-- commons-io/commons-io -->
-        <commons-io.version>2.15.0</commons-io.version>
         <!-- org/apache/commons/commons-lang3 -->
         <commons-lang3.version>3.13.0</commons-lang3.version>
         <!-- com/caucho/hessian -->
@@ -59,11 +57,6 @@
                 <groupId>com.caucho</groupId>
                 <artifactId>hessian</artifactId>
                 <version>${hessian.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>commons-io</groupId>
-                <artifactId>commons-io</artifactId>
-                <version>${commons-io.version}</version>
             </dependency>
             <dependency>
                 <groupId>javax.servlet</groupId>

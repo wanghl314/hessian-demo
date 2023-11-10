@@ -18,10 +18,6 @@
             <artifactId>hessian</artifactId>
         </dependency>
         <dependency>
-            <groupId>commons-io</groupId>
-            <artifactId>commons-io</artifactId>
-        </dependency>
-        <dependency>
             <groupId>com.whl.hessian</groupId>
             <artifactId>hessian-demo-common</artifactId>
             <version>${project.version}</version>
