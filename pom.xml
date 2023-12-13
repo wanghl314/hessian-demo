@@ -10,7 +10,7 @@
 
     <properties>
         <!-- org/apache/commons/commons-lang3 -->
-        <commons-lang3.version>3.13.0</commons-lang3.version>
+        <commons-lang3.version>3.14.0</commons-lang3.version>
         <!-- com/caucho/hessian -->
         <hessian.version>4.0.66</hessian.version>
         <java.version>1.8</java.version>
@@ -19,7 +19,7 @@
         <!-- org/apache/maven/plugins/maven-compiler-plugin -->
         <maven-compiler-plugin.version>3.11.0</maven-compiler-plugin.version>
         <!-- org/apache/maven/plugins/maven-javadoc-plugin -->
-        <maven-javadoc-plugin.version>3.6.2</maven-javadoc-plugin.version>
+        <maven-javadoc-plugin.version>3.6.3</maven-javadoc-plugin.version>
         <!-- org/apache/maven/plugins/maven-source-plugin -->
         <maven-source-plugin.version>3.3.0</maven-source-plugin.version>
         <revision>1.0-SNAPSHOT</revision>
