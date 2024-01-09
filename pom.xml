@@ -26,7 +26,7 @@
         <!-- javax/servlet/javax.servlet-api -->
         <servlet-api.version>4.0.1</servlet-api.version>
         <!-- org/apache/tomcat/embed/tomcat-embed-core -->
-        <tomcat.version>9.0.83</tomcat.version>
+        <tomcat.version>9.0.84</tomcat.version>
     </properties>
 
     <repositories>
