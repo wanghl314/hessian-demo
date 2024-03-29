@@ -17,7 +17,7 @@
         <!-- org/junit/jupiter/junit-jupiter -->
         <junit.version>5.10.2</junit.version>
         <!-- org/apache/maven/plugins/maven-compiler-plugin -->
-        <maven-compiler-plugin.version>3.12.1</maven-compiler-plugin.version>
+        <maven-compiler-plugin.version>3.13.0</maven-compiler-plugin.version>
         <!-- org/apache/maven/plugins/maven-javadoc-plugin -->
         <maven-javadoc-plugin.version>3.6.3</maven-javadoc-plugin.version>
         <!-- org/apache/maven/plugins/maven-source-plugin -->
@@ -26,7 +26,7 @@
         <!-- javax/servlet/javax.servlet-api -->
         <servlet-api.version>4.0.1</servlet-api.version>
         <!-- org/apache/tomcat/embed/tomcat-embed-core -->
-        <tomcat.version>9.0.86</tomcat.version>
+        <tomcat.version>9.0.87</tomcat.version>
     </properties>
 
     <repositories>
