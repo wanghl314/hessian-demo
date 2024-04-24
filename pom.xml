@@ -21,12 +21,12 @@
         <!-- org/apache/maven/plugins/maven-javadoc-plugin -->
         <maven-javadoc-plugin.version>3.6.3</maven-javadoc-plugin.version>
         <!-- org/apache/maven/plugins/maven-source-plugin -->
-        <maven-source-plugin.version>3.3.0</maven-source-plugin.version>
+        <maven-source-plugin.version>3.3.1</maven-source-plugin.version>
         <revision>1.0-SNAPSHOT</revision>
         <!-- javax/servlet/javax.servlet-api -->
         <servlet-api.version>4.0.1</servlet-api.version>
         <!-- org/apache/tomcat/embed/tomcat-embed-core -->
-        <tomcat.version>9.0.87</tomcat.version>
+        <tomcat.version>9.0.88</tomcat.version>
     </properties>
 
     <repositories>
