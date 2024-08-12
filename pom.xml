@@ -10,23 +10,23 @@
 
     <properties>
         <!-- org/apache/commons/commons-lang3 -->
-        <commons-lang3.version>3.14.0</commons-lang3.version>
+        <commons-lang3.version>3.16.0</commons-lang3.version>
         <!-- com/caucho/hessian -->
         <hessian.version>4.0.66</hessian.version>
         <java.version>1.8</java.version>
         <!-- org/junit/jupiter/junit-jupiter -->
-        <junit.version>5.10.2</junit.version>
+        <junit.version>5.10.3</junit.version>
         <!-- org/apache/maven/plugins/maven-compiler-plugin -->
         <maven-compiler-plugin.version>3.13.0</maven-compiler-plugin.version>
         <!-- org/apache/maven/plugins/maven-javadoc-plugin -->
-        <maven-javadoc-plugin.version>3.7.0</maven-javadoc-plugin.version>
+        <maven-javadoc-plugin.version>3.8.0</maven-javadoc-plugin.version>
         <!-- org/apache/maven/plugins/maven-source-plugin -->
         <maven-source-plugin.version>3.3.1</maven-source-plugin.version>
         <revision>1.0-SNAPSHOT</revision>
         <!-- javax/servlet/javax.servlet-api -->
         <servlet-api.version>4.0.1</servlet-api.version>
         <!-- org/apache/tomcat/embed/tomcat-embed-core -->
-        <tomcat.version>9.0.89</tomcat.version>
+        <tomcat.version>9.0.93</tomcat.version>
     </properties>
 
     <repositories>
